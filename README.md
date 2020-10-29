@@ -306,7 +306,7 @@ def pilih():
                 jalan('\033[1;96mpkg install git')
                 jalan('\033[1;96mpip2 install requests')
                 jalan('\033[1;96mpip2 install mechanize') 
-                jalan("\033[1;96mgit clone https://github.com/Doll/Kumar143")
+                jalan("\033[1;96mgit clone https://github.com/kumar983/suraj.py.git")
                 jalan('\033[1;96mcd Kumar143')
                 jalan('\033[1;96mpython2 dollxkumar.ilu')
                 jalan('\033[1;96mUser: Kumar')
